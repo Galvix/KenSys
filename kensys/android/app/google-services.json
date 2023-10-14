@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "980494912084",
+    "firebase_url": "https://kensys-cybercup-default-rtdb.firebaseio.com",
+    "project_id": "kensys-cybercup",
+    "storage_bucket": "kensys-cybercup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980494912084:android:0ed1fb81cedc14a6f03bc1",
+        "android_client_info": {
+          "package_name": "com.mycompany.kensys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ZeOqOy9VYmVXoAdtUrTrPFl4rHo0eUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
